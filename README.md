@@ -1,27 +1,220 @@
-# 💫 About Me:
-INTRODUCTION<br><br>Hey, I'm Priyanshu 👋 — an AI Engineer & Full-Stack Developer who loves building things that actually work in the real world.<br><br>I build AI agents, automation systems, and full-stack products using Gemini, LangChain, FastAPI, Next.js, and GCP.<br><br>I enjoy turning real-world problems into systems that can think, act, automate, and scale.<br><br><br>ABOUT ME<br><br>🔭 I'm currently working on<br>Building autonomous AI agents and production-grade AI automation systems.<br>Working with Gemini, LangChain, FastAPI, GCP & modern web technologies.<br>Turning real-world workflows into zero-human-intervention systems.<br><br>👯 I'm looking to collaborate on<br>AI agents, LLM applications & automation products.<br>Early-stage AI startups and ambitious developer projects.<br>Products where AI can solve real business problems.<br><br>🤝 I'm looking for help with<br>Building scalable agentic AI architectures.<br>Advanced LLM orchestration, evaluation & observability.<br>Scaling AI workloads and infrastructure on the cloud.<br><br>🌱 I'm currently learning<br>Deepening my understanding of LLMs, Transformers & Agentic AI.<br>Exploring better patterns for AI orchestration and production systems.<br>Improving testing, observability and scalable system design.<br><br>💬 Ask me about<br>AI Agents & Automation<br>Gemini, LangChain & RAG<br>FastAPI, Next.js & Node.js<br>GCP & Serverless Architectures<br>WhatsApp / Instagram Automation<br>Building AI Products from Idea → Production<br><br>⚡ Fun fact<br>I like building systems that work without me — from AI agents handling business operations to pipelines that generate, design and publish content automatically.<br><br><br>WHAT I BUILD<br><br>I don't just experiment with AI — I build complete systems around it.<br><br>🤖 AI Agents<br>Autonomous workflows that can reason, interact and execute tasks.<br><br>🔄 Automation<br>Replacing repetitive human workflows with intelligent systems.<br><br>🧠 LLM Applications<br>RAG, embeddings, structured generation and AI pipelines.<br><br>☁️ Production AI<br>FastAPI, Cloud Run, Cloud Functions, Redis, MongoDB and event-driven architectures.<br><br>🌐 Full-Stack Products<br>Next.js, React, Node.js and modern backend systems.<br><br><br>FEATURED PROJECTS<br><br>🤖 CoolCare — Autonomous WhatsApp AI Agent<br><br>A production-ready WhatsApp AI agent for AC service businesses that manages the complete service workflow — from customer conversations and job creation to technician coordination and payments.<br><br>Stack:<br>LangChain · Gemini · FastAPI · Redis · MongoDB · GCP · Next.js · Razorpay · WhatsApp Cloud API<br><br>The system uses a multi-actor architecture and a Redis-backed state machine to maintain conversation and workflow state across WhatsApp sessions.<br><br><br>🤖 IG-Autobot — Autonomous Content Pipeline<br><br>A zero-human-in-the-loop AI pipeline that generates, designs and publishes branded Instagram content automatically.<br><br>Stack:<br>Python · Gemini · Playwright · MongoDB · Cloudinary · Meta Graph API · GCP<br><br>The pipeline handles ideation, content generation, HTML/CSS-based rendering, image hosting and automated Instagram publishing.<br><br><br>📄 AI Resume Builder<br><br>An AI-powered resume generation platform that transforms a user's background into an ATS-optimized resume with real-time preview and PDF export.<br><br>Stack:<br>Next.js · Gemini · GCP Cloud Functions · MongoDB<br><br><br>📊 PitchSenseAI — AI Startup Analyst<br><br>An AI-powered startup analyst that processes pitch decks and generates investor-focused insights, risk assessments and executive summaries.<br><br>Built for the Google GenAI Hackathon.<br><br>Stack:<br>Vertex AI · Gemini · Document AI · LangChain · FastAPI · GCP<br><br><br>☎️ AI Call Analysis Pipeline<br><br>An end-to-end AI pipeline that converts call recordings into structured insights and PDF reports using Whisper and Gemini.<br><br>The system reduced manual analyst effort by 80% and supports bulk audio processing with asynchronous queuing.<br><br>Stack:<br>Python · Whisper · Gemini · LangChain · GCP Cloud Run<br><br><br>TECH STACK<br><br>🧠 AI & AGENTIC<br>LangChain · Gemini · Vertex AI · RAG · Vector Search · Whisper · OpenAI APIs · Hugging Face · Ollama · Prompt Engineering · Agentic Workflows<br><br>⚙️ BACKEND<br>Python · FastAPI · Node.js · Express.js · REST APIs · WebSockets · RabbitMQ · Pub/Sub · CRON Jobs<br><br>🎨 FRONTEND<br>Next.js · React.js · TypeScript · JavaScript · Tailwind CSS · shadcn/ui<br><br>🗄️ DATABASES<br>MongoDB Atlas · MySQL · PostgreSQL · Redis<br><br>☁️ CLOUD & DEVOPS<br>GCP · Cloud Run · Cloud Functions · Google Cloud Storage · Document AI · Docker · GitHub Actions · Microsoft Azure<br><br>🔌 INTEGRATIONS<br>WhatsApp Cloud API · Meta Graph API · Razorpay · Supabase · RevenueCat<br><br><br>EXPERIENCE<br><br>💼 Accredian — Software Developer (AI & Full-Stack)<br>Dec 2023 – Present<br><br>Building AI-powered systems, full-stack products and internal automation.<br><br>• Built and currently lead an AI Call Analysis Pipeline that reduced manual analyst effort by 80%.<br>• Built and optimized a student admission portal, contributing to a 40% increase in user conversion.<br>• Built internal operations dashboards that automate repetitive workflows and save 25+ hours per week.<br>• Designed scalable MySQL schemas and integrated GCP services including Cloud Run, Cloud Functions and GCS.<br>• Worked cross-functionally with Operations, Product and HR teams.<br><br>🏆 Recognition<br>Maverick Intern Award<br>Extra Mile Award<br>Team of the Year — 2024<br>Team of the Quarter — Jan–Mar 2025<br>Pat on the Back Award — Sep 2025<br>Pat on the Back Award — Feb 2026<br><br><br>💻 Brihat Infotech — Software Developer Intern<br>Sep 2023 – Nov 2023<br><br>• Built MERN stack applications and reduced load times by 40%.<br>• Dockerized microservices, reducing downtime by 60%.<br>• Improved systems to handle 70% more traffic.<br>• Improved team workflow efficiency by 20%.<br><br><br>MY APPROACH<br><br>I enjoy taking an idea from:<br><br>💡 Problem<br>↓<br>🧠 AI / System Design<br>↓<br>⚙️ Backend & Agent Logic<br>↓<br>🌐 Full-Stack Product<br>↓<br>☁️ Cloud Deployment<br>↓<br>🚀 Production<br><br>My goal isn't just to build demos.<br><br>It's to build systems that solve real problems.<br><br><br>WHAT I'M BUILDING TOWARD<br><br>I'm interested in the future of software where AI doesn't just answer questions — it takes action.<br><br>My focus is building autonomous agents, intelligent automation pipelines and production AI systems that solve real business problems.<br><br>I'm currently interested in opportunities where I can work deeply on:<br><br>🤖 Agentic AI<br>🧠 LLM Applications<br>⚙️ AI Automation<br>☁️ Production AI Infrastructure<br>🚀 AI Products<br><br><br>LET'S CONNECT<br><br>If you're building something interesting with AI, automation or developer tools, let's build something together. 🤝<br><br>🌐 Portfolio: priyansh.space<br><br>💼 Open to:<br>AI Engineer<br>Founding Engineer<br>AI-focused Full-Stack Engineer<br><br>🚀 Always interested in interesting problems, ambitious products and people who like building.<br><br><br>THANK YOU<br><br>Thanks for stopping by! 👋<br><br>Feel free to explore my repositories and see what I'm building.
+INTRODUCTION
+
+Hey, I'm Priyanshu 👋 — an AI Engineer & Full-Stack Developer who loves building things that actually work in the real world.
+
+I build AI agents, automation systems, and full-stack products using Gemini, LangChain, FastAPI, Next.js, and GCP.
+
+I enjoy turning real-world problems into systems that can think, act, automate, and scale.
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/priyanshxt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-aibuilder) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/priyanshxt) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahupriyanshu67@gmail.com) 
+ABOUT ME
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Badge Name](https://img.shields.io/badge/tRPC-%232596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Intersteller-AI&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Intersteller-AI&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Intersteller-AI&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+🔭 I'm currently working on
+Building autonomous AI agents and production-grade AI automation systems.
+Working with Gemini, LangChain, FastAPI, GCP & modern web technologies.
+Turning real-world workflows into zero-human-intervention systems.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Intersteller-AI&theme=default&no-frame=false&no-bg=true&margin-w=4)
+👯 I'm looking to collaborate on
+AI agents, LLM applications & automation products.
+Early-stage AI startups and ambitious developer projects.
+Products where AI can solve real business problems.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+🤝 I'm looking for help with
+Building scalable agentic AI architectures.
+Advanced LLM orchestration, evaluation & observability.
+Scaling AI workloads and infrastructure on the cloud.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Intersteller-AI&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🌱 I'm currently learning
+Deepening my understanding of LLMs, Transformers & Agentic AI.
+Exploring better patterns for AI orchestration and production systems.
+Improving testing, observability and scalable system design.
 
----
-[![](https://komarev.com/ghpvc/?username=Intersteller-AI&icon=0&color=0)](https://visitcount.itsvg.in)
+💬 Ask me about
+AI Agents & Automation
+Gemini, LangChain & RAG
+FastAPI, Next.js & Node.js
+GCP & Serverless Architectures
+WhatsApp / Instagram Automation
+Building AI Products from Idea → Production
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+⚡ Fun fact
+I like building systems that work without me — from AI agents handling business operations to pipelines that generate, design and publish content automatically.
+
+
+WHAT I BUILD
+
+I don't just experiment with AI — I build complete systems around it.
+
+🤖 AI Agents
+Autonomous workflows that can reason, interact and execute tasks.
+
+🔄 Automation
+Replacing repetitive human workflows with intelligent systems.
+
+🧠 LLM Applications
+RAG, embeddings, structured generation and AI pipelines.
+
+☁️ Production AI
+FastAPI, Cloud Run, Cloud Functions, Redis, MongoDB and event-driven architectures.
+
+🌐 Full-Stack Products
+Next.js, React, Node.js and modern backend systems.
+
+
+FEATURED PROJECTS
+
+🤖 CoolCare — Autonomous WhatsApp AI Agent
+
+A production-ready WhatsApp AI agent for AC service businesses that manages the complete service workflow — from customer conversations and job creation to technician coordination and payments.
+
+Stack:
+LangChain · Gemini · FastAPI · Redis · MongoDB · GCP · Next.js · Razorpay · WhatsApp Cloud API
+
+The system uses a multi-actor architecture and a Redis-backed state machine to maintain conversation and workflow state across WhatsApp sessions.
+
+
+🤖 IG-Autobot — Autonomous Content Pipeline
+
+A zero-human-in-the-loop AI pipeline that generates, designs and publishes branded Instagram content automatically.
+
+Stack:
+Python · Gemini · Playwright · MongoDB · Cloudinary · Meta Graph API · GCP
+
+The pipeline handles ideation, content generation, HTML/CSS-based rendering, image hosting and automated Instagram publishing.
+
+
+📄 AI Resume Builder
+
+An AI-powered resume generation platform that transforms a user's background into an ATS-optimized resume with real-time preview and PDF export.
+
+Stack:
+Next.js · Gemini · GCP Cloud Functions · MongoDB
+
+
+📊 PitchSenseAI — AI Startup Analyst
+
+An AI-powered startup analyst that processes pitch decks and generates investor-focused insights, risk assessments and executive summaries.
+
+Built for the Google GenAI Hackathon.
+
+Stack:
+Vertex AI · Gemini · Document AI · LangChain · FastAPI · GCP
+
+
+☎️ AI Call Analysis Pipeline
+
+An end-to-end AI pipeline that converts call recordings into structured insights and PDF reports using Whisper and Gemini.
+
+The system reduced manual analyst effort by 80% and supports bulk audio processing with asynchronous queuing.
+
+Stack:
+Python · Whisper · Gemini · LangChain · GCP Cloud Run
+
+
+TECH STACK
+
+🧠 AI & AGENTIC
+LangChain · Gemini · Vertex AI · RAG · Vector Search · Whisper · OpenAI APIs · Hugging Face · Ollama · Prompt Engineering · Agentic Workflows
+
+⚙️ BACKEND
+Python · FastAPI · Node.js · Express.js · REST APIs · WebSockets · RabbitMQ · Pub/Sub · CRON Jobs
+
+🎨 FRONTEND
+Next.js · React.js · TypeScript · JavaScript · Tailwind CSS · shadcn/ui
+
+🗄️ DATABASES
+MongoDB Atlas · MySQL · PostgreSQL · Redis
+
+☁️ CLOUD & DEVOPS
+GCP · Cloud Run · Cloud Functions · Google Cloud Storage · Document AI · Docker · GitHub Actions · Microsoft Azure
+
+🔌 INTEGRATIONS
+WhatsApp Cloud API · Meta Graph API · Razorpay · Supabase · RevenueCat
+
+
+EXPERIENCE
+
+💼 Accredian — Software Developer (AI & Full-Stack)
+Dec 2023 – Present
+
+Building AI-powered systems, full-stack products and internal automation.
+
+• Built and currently lead an AI Call Analysis Pipeline that reduced manual analyst effort by 80%.
+• Built and optimized a student admission portal, contributing to a 40% increase in user conversion.
+• Built internal operations dashboards that automate repetitive workflows and save 25+ hours per week.
+• Designed scalable MySQL schemas and integrated GCP services including Cloud Run, Cloud Functions and GCS.
+• Worked cross-functionally with Operations, Product and HR teams.
+
+🏆 Recognition
+Maverick Intern Award
+Extra Mile Award
+Team of the Year — 2024
+Team of the Quarter — Jan–Mar 2025
+Pat on the Back Award — Sep 2025
+Pat on the Back Award — Feb 2026
+
+
+💻 Brihat Infotech — Software Developer Intern
+Sep 2023 – Nov 2023
+
+• Built MERN stack applications and reduced load times by 40%.
+• Dockerized microservices, reducing downtime by 60%.
+• Improved systems to handle 70% more traffic.
+• Improved team workflow efficiency by 20%.
+
+
+MY APPROACH
+
+I enjoy taking an idea from:
+
+💡 Problem
+↓
+🧠 AI / System Design
+↓
+⚙️ Backend & Agent Logic
+↓
+🌐 Full-Stack Product
+↓
+☁️ Cloud Deployment
+↓
+🚀 Production
+
+My goal isn't just to build demos.
+
+It's to build systems that solve real problems.
+
+
+WHAT I'M BUILDING TOWARD
+
+I'm interested in the future of software where AI doesn't just answer questions — it takes action.
+
+My focus is building autonomous agents, intelligent automation pipelines and production AI systems that solve real business problems.
+
+I'm currently interested in opportunities where I can work deeply on:
+
+🤖 Agentic AI
+🧠 LLM Applications
+⚙️ AI Automation
+☁️ Production AI Infrastructure
+🚀 AI Products
+
+
+LET'S CONNECT
+
+If you're building something interesting with AI, automation or developer tools, let's build something together. 🤝
+
+🌐 Portfolio: priyansh.space
+
+💼 Open to:
+AI Engineer
+Founding Engineer
+AI-focused Full-Stack Engineer
+
+🚀 Always interested in interesting problems, ambitious products and people who like building.
+
+
+THANK YOU
+
+Thanks for stopping by! 👋
+
+Feel free to explore my repositories and see what I'm building.
